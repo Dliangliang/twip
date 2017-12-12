@@ -1,1 +1,12 @@
-
+<?php
+define('OAUTH_KEY','pW1EEsKwuHW9ZijTh7LdA');
+define('OAUTH_SECRET','dUwzZtwYuxbzsNlOTgg8HZW5QaAY7ym8JHTPuNhn2Qg');
+define('OAUTH_KEY_GET',OAUTH_KEY);
+define('OAUTH_SECRET_GET',OAUTH_SECRET);
+define('BASE_URL','https://liangt-dliangliang.rhcloud.com/');
+define('API_VERSION','1.1');
+define('DEBUG',FALSE);
+define('DOLOG',FALSE);
+define('COMPRESS',FALSE);
+define('O_MODE_PARSE_ENTITIES',FALSE);
+?>
